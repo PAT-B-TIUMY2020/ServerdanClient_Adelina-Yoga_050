@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Adelina Yoga Eka S_20180140050", "ServerdanClient_Adelina Yoga Eka S_20180140050\Client_Adelina Yoga Eka S_20180140050.csproj", "{1CA0BFEA-6905-48C1-B332-C2D6FE003215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Adelina Yoga Eka S_20180140050", "Server_Adelina Yoga Eka S_20180140050\Server_Adelina Yoga Eka S_20180140050.csproj", "{A8AE0236-DCE4-4154-A02D-84114EB28D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA0BFEA-6905-48C1-B332-C2D6FE003215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA0BFEA-6905-48C1-B332-C2D6FE003215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA0BFEA-6905-48C1-B332-C2D6FE003215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA0BFEA-6905-48C1-B332-C2D6FE003215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AE0236-DCE4-4154-A02D-84114EB28D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AE0236-DCE4-4154-A02D-84114EB28D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AE0236-DCE4-4154-A02D-84114EB28D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AE0236-DCE4-4154-A02D-84114EB28D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC974FB-3F03-4CEA-BD0A-D73E6FC9AA84}
+	EndGlobalSection
+EndGlobal
